@@ -1,0 +1,4 @@
+- pipeline: tnafxrgoda
+  refs:
+  - refs/heads/master
+  on: CLICK
