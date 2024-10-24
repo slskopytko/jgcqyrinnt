@@ -1,0 +1,4 @@
+- pipeline: wkfuhrewal
+  refs:
+  - refs/heads/master
+  on: CLICK
